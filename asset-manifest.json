@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/wedportfolio/static/css/main.0a669270.chunk.css",
+    "main.js": "/wedportfolio/static/js/main.c78f08b6.chunk.js",
+    "main.js.map": "/wedportfolio/static/js/main.c78f08b6.chunk.js.map",
+    "runtime-main.js": "/wedportfolio/static/js/runtime-main.f2ca2f8f.js",
+    "runtime-main.js.map": "/wedportfolio/static/js/runtime-main.f2ca2f8f.js.map",
+    "static/js/2.a2e2fbf0.chunk.js": "/wedportfolio/static/js/2.a2e2fbf0.chunk.js",
+    "static/js/2.a2e2fbf0.chunk.js.map": "/wedportfolio/static/js/2.a2e2fbf0.chunk.js.map",
+    "static/js/3.7a4ecd82.chunk.js": "/wedportfolio/static/js/3.7a4ecd82.chunk.js",
+    "static/js/3.7a4ecd82.chunk.js.map": "/wedportfolio/static/js/3.7a4ecd82.chunk.js.map",
+    "index.html": "/wedportfolio/index.html",
+    "static/css/main.0a669270.chunk.css.map": "/wedportfolio/static/css/main.0a669270.chunk.css.map",
+    "static/js/2.a2e2fbf0.chunk.js.LICENSE.txt": "/wedportfolio/static/js/2.a2e2fbf0.chunk.js.LICENSE.txt",
+    "static/media/1.203af3ad.jpg": "/wedportfolio/static/media/1.203af3ad.jpg",
+    "static/media/1.401f624d.jpg": "/wedportfolio/static/media/1.401f624d.jpg",
+    "static/media/1.5c656d3d.jpg": "/wedportfolio/static/media/1.5c656d3d.jpg",
+    "static/media/1.65886356.png": "/wedportfolio/static/media/1.65886356.png",
+    "static/media/1.88a67e86.png": "/wedportfolio/static/media/1.88a67e86.png",
+    "static/media/1.dce5fe14.jpg": "/wedportfolio/static/media/1.dce5fe14.jpg",
+    "static/media/2.6174c6e2.jpg": "/wedportfolio/static/media/2.6174c6e2.jpg",
+    "static/media/2.754f708f.jpg": "/wedportfolio/static/media/2.754f708f.jpg",
+    "static/media/2.cb21832d.jpg": "/wedportfolio/static/media/2.cb21832d.jpg",
+    "static/media/2.cedb5e3f.jpg": "/wedportfolio/static/media/2.cedb5e3f.jpg",
+    "static/media/3.2cbe0483.jpg": "/wedportfolio/static/media/3.2cbe0483.jpg",
+    "static/media/3.3a0f36c5.jpg": "/wedportfolio/static/media/3.3a0f36c5.jpg",
+    "static/media/3.75a4f0e2.jpg": "/wedportfolio/static/media/3.75a4f0e2.jpg",
+    "static/media/3.b5be2a9a.jpg": "/wedportfolio/static/media/3.b5be2a9a.jpg",
+    "static/media/4.35152726.jpg": "/wedportfolio/static/media/4.35152726.jpg",
+    "static/media/4.c991a74c.jpg": "/wedportfolio/static/media/4.c991a74c.jpg",
+    "static/media/5.4c4a153f.jpg": "/wedportfolio/static/media/5.4c4a153f.jpg",
+    "static/media/styles3.css": "/wedportfolio/static/media/56.f03b74ab.jpg",
+    "static/media/6.7cbc25d5.jpg": "/wedportfolio/static/media/6.7cbc25d5.jpg",
+    "static/media/styles.css": "/wedportfolio/static/media/bg-signup.5b5db837.jpg",
+    "static/media/styles2.css": "/wedportfolio/static/media/map-image.3cd6dd98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ca2f8f.js",
+    "static/js/2.a2e2fbf0.chunk.js",
+    "static/css/main.0a669270.chunk.css",
+    "static/js/main.c78f08b6.chunk.js"
+  ]
+}
